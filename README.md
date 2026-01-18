@@ -12,4 +12,4 @@ Run `$ ollama run llama3.2` or another [model](https://ollama.com/search)
 **End a conversation**<br>
 Run `$ /bye`.
 
-Done ✅
+Done.
